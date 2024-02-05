@@ -1,0 +1,15 @@
+{
+  "departureLocation": "Bucaramanga, Bucaramanga",
+  "destinationLocation": "Bogota, Bogota",
+  "passengerName": "John",
+  "passengerLastName": "Doe",
+  "passengerEmail": "john@reservamos.com",
+  "idNumber":"123456789",
+  "creditCardName": "APRO",
+  "creditCardLastName":"Test",
+  "creditCardPhoneNumber": "81 8181 8181",
+  "creditCardEmail": "test_user_719388596@testuser.com",
+  "creditCardNumber": "5474 9254 3267 0366",
+  "creditCardCVV": "123",
+  "creditCardExpirationDate":"11/25"
+}
